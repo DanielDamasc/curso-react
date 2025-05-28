@@ -3,6 +3,7 @@ import FirstComponent from './components/FirstComponent';
 import TemplateExpressions from './components/TemplateExpressions';
 import ReuseComponent from './components/ReuseComponent';
 import Events from './components/Events';
+import RenderFora from './components/RenderFora';
 
 // css
 import './App.css';
@@ -15,6 +16,7 @@ function App() {
       <TemplateExpressions />
       <ReuseComponent />
       <Events />
+      <RenderFora />
     </div>
   );
 }
